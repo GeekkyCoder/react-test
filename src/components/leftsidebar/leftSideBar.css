@@ -1,0 +1,13 @@
+.show-items-list {
+     display: block;
+     border: 2px solid red;
+}
+
+.hide-items-list {
+    display: none;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+}
